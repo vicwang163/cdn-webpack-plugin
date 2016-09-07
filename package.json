@@ -1,6 +1,6 @@
 {
   "name": "cdn-webpack-plugin",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "publish your static assets in the different cdns",
   "main": "index.js",
   "scripts": {
